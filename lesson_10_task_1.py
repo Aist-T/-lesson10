@@ -11,9 +11,9 @@ import allure
 @allure.severity(allure.severity_level.TRIVIAL)
 def test_filling_form():
     # Значения для заполнения:
-    first_name = "Иван"
-    last_name = "Петров"
-    address = "Ленина, 55-3"
+    first_name = "Анаа"
+    last_name = "Петрова"
+    address = "Ленина, 10-3"
     email = "test@skypro.com"
     phone_number = "+7985899998787"
     zip_code = ""  # оставить пустым.
